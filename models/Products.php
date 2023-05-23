@@ -4,7 +4,7 @@ require_once __DIR__ . '/categories/Food.php';
 require_once __DIR__ . '/categories/Kennels.php';
 require_once __DIR__ . '/categories/Toys.php';
 
-class products{
+class Products{
     public $name;
     public $poster;
     public $price;
@@ -16,4 +16,5 @@ class products{
         $this->price = $_price;
         $this->categories = $_categories;
     }
-}
+
+};
