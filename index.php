@@ -1,7 +1,6 @@
 <?php
 
-require_once __DIR__ . '/models/Products.php'
-
+require_once __DIR__ . '/models/Products.php';
 
 ?>
 <!DOCTYPE html>
@@ -19,7 +18,7 @@ require_once __DIR__ . '/models/Products.php'
 
         <div class="row">
             <div class="col-4">
-                
+
             </div>
         </div>
 
